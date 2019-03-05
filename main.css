@@ -130,7 +130,7 @@ input {
 }
 
 footer{
-      position:absolute;
+      position:fixed;
    bottom:0;
    width:45%;
    height:60px;   
